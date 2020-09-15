@@ -44,7 +44,7 @@ public class Bridge_length {
 		} // for
 		System.out.println(answer);
 		System.out.println(bridge_length);
-		return answer;
+		return answer+bridge_length;
 	}
 
 	public static void main(String[] args) {
